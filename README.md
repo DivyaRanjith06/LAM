@@ -1,4 +1,4 @@
-Project Description
+Project Description:
 This project was developed as part of the TWorks LAM Challenge, held in November 2024.
 It captures frames from a live camera feed, detects object outlines using contour-based image processing, and arranges the detected shapes compactly on a virtual canvas. The processed contours are then exported as both a PNG image for visual layout and a DXF file for use in CAD/CAM applications.
 
